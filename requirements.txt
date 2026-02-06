@@ -1,0 +1,11 @@
+streamlit
+pandas
+plotly
+numpy
+transformers
+deep-translator
+torch
+emoji
+wordcloud
+matplotlib
+google-generativeai
