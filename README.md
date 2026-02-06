@@ -1,4 +1,4 @@
-# 🤖 WhatsMood (aka WhatsInsight)
+# 🤖 WhatsMood
 
 WhatsMood is a multilingual behavioral intelligence engine that transforms raw WhatsApp chat exports into actionable emotional and group-dynamics insights.
 
@@ -167,3 +167,4 @@ This project is open-source and licensed under the MIT License.
 ## 🙌 Author Note
 
 WhatsMood bridges the gap between raw human conversation and actionable behavioral intelligence, built specifically for multilingual, emoji-rich, real-world chats.
+
